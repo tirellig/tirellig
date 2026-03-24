@@ -2,7 +2,7 @@
 ---
 ## Back-end programmer 
 
-I'm 20 years old student of Computer Science at @idp-edu, actualy in 2th semester. 
+I'm 20 years old student of Computer Science at IDP, actualy in 2th semester. 
 
 ---
 ## Principal tecnologies
