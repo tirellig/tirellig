@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/gabriel-concei%C3%A7%C3%A3o-tirelli-7770712a6/" target="_blank">
-  <img src="https://img.shields.io" target="_blank">
+  <img src="[https://img.shields.io](https://img.freepik.com/vetores-premium/icone-do-aplicativo-linkedin-a-maior-rede-profissional-do-mundo-redes-sociais-empregos-e-carreiras_277909-476.jpg?semt=ais_hybrid&w=740&q=80)" target="_blank">
 </a>
 
 
