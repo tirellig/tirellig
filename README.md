@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/gabriel-concei%C3%A7%C3%A3o-tirelli-7770712a6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="g7tirelli@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVPGJjhcvJhTxZhtwSDDphcJkjDxkGhnCGsZqHPrWFkHHLVLwkjLXLLqBgLXNqjMXSCLV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
