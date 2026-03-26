@@ -2,14 +2,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tirellig/tirellig/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-concei%C3%A7%C3%A3o-tirelli-7770712a6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img height="400" src="https://miro.medium.com/v2/resize:fit:1400/0*AS9TLyHgxgSPWPQe"  />
 </div>
 
 ###
@@ -44,6 +38,21 @@
 
 ###
 
-<h4 align="left">Email: g7tirelli@gmail.com</h4>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-concei%C3%A7%C3%A3o-tirelli-7770712a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="g7tirelli@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="center">Linkedin: Gabriel Conceição Tirelli</h4>
+
+###
+
+<h4 align="center">Email: g7tirelli@gmail.com</h4>
 
 ###
