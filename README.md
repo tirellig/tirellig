@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi there, my name is Gabriel Tirelli. I'm a 20 years old pentester from Brazil. <br><br>I'm currently in my 3th semester of Computer Science, where I am deepening my knowledge in software development, software project, object oriented programming, data structures, machine learning and computer networks.<br><br>I enjoy understanding how things work behind the scenes of systems and find breachs in them. For me, this isn't just studying or working; it's something I truly enjoy doing.<br><br>I'm always looking to learn new technologies, improve my habilities, and face challenges that help me to grow as a cybersecurity professional.</p>
+<p align="left">Hi there, my name is Gabriel Tirelli. I'm a 20 years student from Brazil. <br><br>I'm currently in my 3th semester of Computer Science, where I am deepening my knowledge in software development, software project, object oriented programming, data structures, machine learning and computer networks.<br><br>I enjoy understanding how things work behind the scenes of systems and learn about them. For me, this isn't just studying or working; it's something I truly enjoy doing.<br><br>I'm always looking to learn new technologies, improve my habilities, and face challenges that help me to grow as a technology professional.</p>
 
 ###
 
